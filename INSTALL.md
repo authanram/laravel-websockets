@@ -32,7 +32,7 @@ php artisan websockets:serve
 ```
 
 ## Dashboard
-http://laravel-websockets.localhost (can/will vary)
+http://laravel-websockets.localhost/dashboard
 
 ## Docs
 - https://beyondco.de/docs/laravel-websockets/getting-started/installation
